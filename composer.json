@@ -1,7 +1,7 @@
 {
   "name": "awanesia/sendgrid-4.0.4",
   "description": "This library allows you to quickly and easily send emails through SendGrid using PHP.",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "homepage": "http://github.com/awanesia",
   "license": "MIT",
   "keywords": ["SendGrid 4.0.4", "sendgrid 4.0.4", "email", "send", "grid"],
